@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T03:17:45.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vyeWOGkLPMEieR863nTR" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-27T03:22:36.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="61hvghxLXw1BROeQqgw_" version="20.5.1" type="github" pages="4">
   <diagram id="2nWVwTH6LJ7us7tEb8is" name="skema kasar">
     <mxGraphModel dx="1240" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -288,7 +288,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xgSSdp_Hg9cuTcZ6zRm7" name="skema sensor">
-    <mxGraphModel dx="1085" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1335" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -335,6 +335,14 @@
         <mxCell id="6fau7nbXC1OIXEZZ9Jsj-6" value="Jarak = 50cm &amp;gt; x &amp;gt; 10cm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="160" y="290" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xZ9qqTjUL_ShwBujYvVx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=17;" edge="1" parent="1" source="6fau7nbXC1OIXEZZ9Jsj-7" target="xZ9qqTjUL_ShwBujYvVx-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="840" />
+              <mxPoint x="510" y="1015" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6fau7nbXC1OIXEZZ9Jsj-7" value="API" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=17;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="560.52" y="810" width="120" height="60" as="geometry" />
         </mxCell>
@@ -343,6 +351,18 @@
         </mxCell>
         <mxCell id="6fau7nbXC1OIXEZZ9Jsj-10" value="Audio Player" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="100" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xZ9qqTjUL_ShwBujYvVx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=17;" edge="1" parent="1" source="xZ9qqTjUL_ShwBujYvVx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="1015" />
+              <mxPoint x="510" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZ9qqTjUL_ShwBujYvVx-1" value="Aplikasi" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="330" y="910" width="120" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
